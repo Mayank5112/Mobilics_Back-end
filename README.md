@@ -10,7 +10,14 @@ To ensure seamless querying of the data, individual data entries were created or
 ## Part 3
 The 'database' folder contains the schema and model for our database.
 
+## How to run the app
+ 1) Clone the repo 
+ 2) initialize npm 
+ 3) rum command {node index.js}
+
 ### Key information 
 
  1) The server runs on port 8000.
  2) App uses CORS for removing cross origin    errors.
+
+
